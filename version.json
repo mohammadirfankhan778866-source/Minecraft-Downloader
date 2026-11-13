@@ -1,7 +1,6 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/mohammadirfankhan778866-source/Minecraft-Downloader/releases/download/v2.0.0/MinecraftDownloader_Setup_v2.0.0.exe",
-  "sha256": "2e71bdc411bbc68c4367709d488962b9ef62cd2cb30a53ef8e4692866cbf2d5b",
-  "mandatory": false,
-  "changelog": "- New Modern Glassmorphism Dashboard\n- Authentic 3D Crafting Table Logo\n- Real-time download telemetry & mod support"
+  "version": "2.0.2",
+  "release_notes": "• In-app seamless auto-update engine with automated restart\n• Real-time download speed gauge and SHA-256 validation\n• Automatic background update checks on launch\n• UI performance enhancements and fixes",
+  "download_url": "https://github.com/mohammadirfankhan778866-source/Minecraft-Downloader/releases/download/v2.0.2/MinecraftDownloader_Setup_v2.0.2.exe",
+  "sha256": "a2996155d584283f94a418d4e3ad552631ff2abaafb0a8576818a5deeea64799"
 }
