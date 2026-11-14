@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "release_notes": "• In-app seamless auto-update engine with automated restart\n• Real-time download speed gauge and SHA-256 validation\n• Automatic background update checks on launch\n• UI performance enhancements and fixes",
-  "download_url": "https://github.com/mohammadirfankhan778866-source/Minecraft-Downloader/releases/download/v2.0.2/MinecraftDownloader_Setup_v2.0.2.exe",
-  "sha256": "a2996155d584283f94a418d4e3ad552631ff2abaafb0a8576818a5deeea64799"
+  "version": "2.0.3",
+  "release_notes": "• Windows Defender heuristic false-positive fix (embedded PE version info & disabled UPX)\n• In-app auto-updater engine with automated restart\n• Real-time download speed gauge and SHA-256 validation\n• Automatic background update checks on launch\n• UI and stability enhancements",
+  "download_url": "https://github.com/mohammadirfankhan778866-source/Minecraft-Downloader/releases/download/v2.0.3/MinecraftDownloader_Setup_v2.0.3.exe",
+  "sha256": "263e0d9c3865e462e682efd90380fe7e892d03da849082680fed81029c2c2da2"
 }
